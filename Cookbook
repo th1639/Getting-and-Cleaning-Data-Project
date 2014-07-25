@@ -1,0 +1,234 @@
+DATA DICTIONARY – Subject / Activity Data
+
+subject
+ID used to identify individual participated in the experiment. 
+0..30 
+
+activity
+Activities each person performed wearing the smartphone on the waist.
+WALKING
+WALKING_UPSTAIRS
+WALKING_DOWNSTAIRS
+SITTING
+STANDING
+LAYING
+ 
+tBodyAcc-mean()-X 
+Average value based on the collected data set for the given activity measurement 
+
+tBodyAcc-mean()-Y
+Average value based on the collected data set for the given activity measurement 
+
+tBodyAcc-mean()-Z
+Average value based on the collected data set for the given activity measurement 
+
+tBodyAcc-std()-X
+Average value based on the collected data set for the given activity measurement 
+
+tBodyAcc-std()-Y
+Average value based on the collected data set for the given activity measurement 
+
+tBodyAcc-std()-Z
+Average value based on the collected data set for the given activity measurement 
+
+tGravityAcc-mean()-X
+Average value based on the collected data set for the given activity measurement 
+
+tGravityAcc-mean()-Y
+Average value based on the collected data set for the given activity measurement 
+
+tGravityAcc-mean()-Z
+Average value based on the collected data set for the given activity measurement 
+
+tGravityAcc-std()-X
+Average value based on the collected data set for the given activity measurement 
+
+tGravityAcc-std()-Y
+Average value based on the collected data set for the given activity measurement 
+
+tGravityAcc-std()-Z
+Average value based on the collected data set for the given activity measurement 
+
+tBodyAccJerk-mean()-X
+Average value based on the collected data set for the given activity measurement 
+
+tBodyAccJerk-mean()-Y
+Average value based on the collected data set for the given activity measurement 
+
+tBodyAccJerk-mean()-Z
+Average value based on the collected data set for the given activity measurement 
+
+tBodyAccJerk-std()-X
+Average value based on the collected data set for the given activity measurement 
+
+tBodyAccJerk-std()-Y
+Average value based on the collected data set for the given activity measurement 
+
+tBodyAccJerk-std()-Z
+Average value based on the collected data set for the given activity measurement 
+
+tBodyGyro-mean()-X
+Average value based on the collected data set for the given activity measurement 
+
+tBodyGyro-mean()-Y
+Average value based on the collected data set for the given activity measurement 
+
+tBodyGyro-mean()-Z
+Average value based on the collected data set for the given activity measurement 
+
+tBodyGyro-std()-X
+Average value based on the collected data set for the given activity measurement 
+
+tBodyGyro-std()-Y
+Average value based on the collected data set for the given activity measurement 
+
+tBodyGyro-std()-Z
+Average value based on the collected data set for the given activity measurement 
+
+tBodyGyroJerk-mean()-X
+Average value based on the collected data set for the given activity measurement 
+
+tBodyGyroJerk-mean()-Y
+Average value based on the collected data set for the given activity measurement 
+
+tBodyGyroJerk-mean()-Z
+Average value based on the collected data set for the given activity measurement 
+
+tBodyGyroJerk-std()-X
+Average value based on the collected data set for the given activity measurement 
+
+tBodyGyroJerk-std()-Y
+Average value based on the collected data set for the given activity measurement 
+
+tBodyGyroJerk-std()-Z
+Average value based on the collected data set for the given activity measurement 
+
+tBodyAccMag-mean()
+Average value based on the collected data set for the given activity measurement 
+
+tBodyAccMag-std()
+Average value based on the collected data set for the given activity measurement 
+
+tGravityAccMag-mean()
+Average value based on the collected data set for the given activity measurement 
+
+tGravityAccMag-std()
+Average value based on the collected data set for the given activity measurement 
+
+tBodyAccJerkMag-mean()
+Average value based on the collected data set for the given activity measurement 
+
+tBodyAccJerkMag-std()
+Average value based on the collected data set for the given activity measurement 
+
+tBodyGyroMag-mean()
+Average value based on the collected data set for the given activity measurement 
+
+tBodyGyroMag-std()
+Average value based on the collected data set for the given activity measurement 
+
+tBodyGyroJerkMag-mean()
+Average value based on the collected data set for the given activity measurement 
+
+tBodyGyroJerkMag-std()
+Average value based on the collected data set for the given activity measurement 
+
+fBodyAcc-mean()-X
+Average value based on the collected data set for the given activity measurement 
+
+fBodyAcc-mean()-Y
+Average value based on the collected data set for the given activity measurement 
+
+fBodyAcc-mean()-Z
+Average value based on the collected data set for the given activity measurement 
+
+fBodyAcc-std()-X
+Average value based on the collected data set for the given activity measurement 
+
+fBodyAcc-std()-Y
+Average value based on the collected data set for the given activity measurement 
+
+fBodyAcc-std()-Z
+Average value based on the collected data set for the given activity measurement 
+
+fBodyAccJerk-mean()-X
+Average value based on the collected data set for the given activity measurement 
+
+fBodyAccJerk-mean()-Y
+Average value based on the collected data set for the given activity measurement 
+
+fBodyAccJerk-mean()-Z
+Average value based on the collected data set for the given activity measurement 
+
+fBodyAccJerk-std()-X
+Average value based on the collected data set for the given activity measurement 
+
+fBodyAccJerk-std()-Y
+Average value based on the collected data set for the given activity measurement 
+
+fBodyAccJerk-std()-Z
+Average value based on the collected data set for the given activity measurement 
+
+fBodyGyro-mean()-X
+Average value based on the collected data set for the given activity measurement 
+
+fBodyGyro-mean()-Y
+Average value based on the collected data set for the given activity measurement 
+
+fBodyGyro-mean()-Z
+Average value based on the collected data set for the given activity measurement 
+
+fBodyGyro-std()-X
+Average value based on the collected data set for the given activity measurement 
+
+fBodyGyro-std()-Y
+Average value based on the collected data set for the given activity measurement 
+
+fBodyGyro-std()-Z
+Average value based on the collected data set for the given activity measurement 
+
+fBodyAccMag-mean()
+Average value based on the collected data set for the given activity measurement 
+
+fBodyAccMag-std()
+Average value based on the collected data set for the given activity measurement 
+
+fBodyBodyAccJerkMag-mean()
+Average value based on the collected data set for the given activity measurement 
+
+fBodyBodyAccJerkMag-std()
+Average value based on the collected data set for the given activity measurement 
+
+fBodyBodyGyroMag-mean()
+Average value based on the collected data set for the given activity measurement 
+
+fBodyBodyGyroMag-std()
+Average value based on the collected data set for the given activity measurement 
+
+fBodyBodyGyroJerkMag-mean()
+Average value based on the collected data set for the given activity measurement 
+
+fBodyBodyGyroJerkMag-std()
+Average value based on the collected data set for the given activity measurement 
+
+angle(tBodyAccMean,gravity)
+Average value based on the collected data set for the given activity measurement 
+
+angle(tBodyAccJerkMean),gravityMean)
+Average value based on the collected data set for the given activity measurement 
+
+angle(tBodyGyroMean,gravityMean)
+Average value based on the collected data set for the given activity measurement 
+
+angle(tBodyGyroJerkMean,gravityMean)
+Average value based on the collected data set for the given activity measurement 
+
+angle(X,gravityMean)
+Average value based on the collected data set for the given activity measurement 
+
+angle(Y,gravityMean)
+Average value based on the collected data set for the given activity measurement 
+
+angle(Z,gravityMean)
+Average value based on the collected data set for the given activity measurement 
+
