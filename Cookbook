@@ -210,25 +210,3 @@ Average value based on the collected data set for the given activity measurement
 
 fBodyBodyGyroJerkMag-std()
 Average value based on the collected data set for the given activity measurement 
-
-angle(tBodyAccMean,gravity)
-Average value based on the collected data set for the given activity measurement 
-
-angle(tBodyAccJerkMean),gravityMean)
-Average value based on the collected data set for the given activity measurement 
-
-angle(tBodyGyroMean,gravityMean)
-Average value based on the collected data set for the given activity measurement 
-
-angle(tBodyGyroJerkMean,gravityMean)
-Average value based on the collected data set for the given activity measurement 
-
-angle(X,gravityMean)
-Average value based on the collected data set for the given activity measurement 
-
-angle(Y,gravityMean)
-Average value based on the collected data set for the given activity measurement 
-
-angle(Z,gravityMean)
-Average value based on the collected data set for the given activity measurement 
-
